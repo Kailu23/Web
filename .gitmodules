@@ -3,3 +3,8 @@
 	url = https://github.com/Kailu23/web-lv1
 	branch = main
     ignore = dirty
+[submodule "LV2"]
+	path = LV2
+	url = C:/Users/Marin/source/repos/FERIT/Diplomski/Web/LV2/
+	branch = main
+    ignore = dirty
