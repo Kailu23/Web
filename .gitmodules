@@ -5,6 +5,11 @@
     ignore = dirty
 [submodule "LV2"]
 	path = LV2
-	url = C:/Users/Marin/source/repos/FERIT/Diplomski/Web/LV2/
+	url = https://github.com/Kailu23/web-lv2
+	branch = main
+    ignore = dirty
+[submodule "LV3"]
+	path = LV3
+	url = C:/Users/Marin/source/repos/FERIT/Diplomski/Web/LV3/
 	branch = main
     ignore = dirty
