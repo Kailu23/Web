@@ -1,15 +1,20 @@
-[submodule "LV1"]
-	path = LV1
-	url = https://github.com/Kailu23/web-lv1
-	branch = main
-    ignore = dirty
-[submodule "LV2"]
-	path = LV2
-	url = https://github.com/Kailu23/web-lv2
-	branch = main
-    ignore = dirty
-[submodule "LV3"]
-	path = LV3
-	url = C:/Users/Marin/source/repos/FERIT/Diplomski/Web/LV3/
-	branch = main
+[submodule "LV1"]
+	path = LV1
+	url = https://github.com/Kailu23/web-lv1
+	branch = main
+    ignore = dirty
+[submodule "LV2"]
+	path = LV2
+	url = https://github.com/Kailu23/web-lv2
+	branch = main
+    ignore = dirty
+[submodule "LV3"]
+	path = LV3
+	url = https://github.com/Kailu23/web-lv3
+	branch = main
+    ignore = dirty
+[submodule "LV4"]
+	path = LV4
+	url = https://github.com/Kailu23/web-lv4
+	branch = main
     ignore = dirty
