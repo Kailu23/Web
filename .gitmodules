@@ -1,25 +1,25 @@
 [submodule "LV1"]
 	path = LV1
-	url = git@github.com:Kailu23/web-lv1
+	url = git@github.com:Kailu23/web-lv1.git
 	branch = main
     ignore = dirty
 [submodule "LV2"]
 	path = LV2
-	url = git@github.com:Kailu23/web-lv2
+	url = git@github.com:Kailu23/web-lv2.git
 	branch = main
     ignore = dirty
 [submodule "LV3"]
 	path = LV3
-	url = git@github.com:Kailu23/web-lv3
+	url = git@github.com:Kailu23/web-lv3.git
 	branch = main
     ignore = dirty
 [submodule "LV4"]
 	path = LV4
-	url = git@github.com:Kailu23/web-lv4
+	url = git@github.com:Kailu23/web-lv4.git
 	branch = main
     ignore = dirty
 [submodule "LV5"]
 	path = LV5
-	url = git@github.com:Kailu23/web-lv5
+	url = git@github.com:Kailu23/web-lv5.git
 	branch = main
     ignore = dirty
